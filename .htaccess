@@ -1,0 +1,5 @@
+Options -Indexes
+
+ErrorDocument 403 /CS2SkinsSite/error/?msg=403
+ErrorDocument 404 /CS2SkinsSite/error/?msg=404
+ErrorDocument 500 /CS2SkinsSite/error/?msg=500
