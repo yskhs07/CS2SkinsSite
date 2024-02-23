@@ -23,14 +23,14 @@ $Website_UseCategories = true;
 $Website_MainColor = true;
 
 // Write here your steam api key, get one from here: https://steamcommunity.com/dev/apikey.
-$SteamAPI_KEY = '';
+$SteamAPI_KEY = '2EC8A2544740E0D8132BF94DDBBFA31A';
 
 // Write here your database login details.
 $DatabaseInfo = [
-    'hostname' => '',
-    'database' => '',
-    'username' => '',
-    'password' => '',
+    'hostname' => '103.91.226.66',
+    'database' => 'skin12',
+    'username' => 'HS',
+    'password' => 'your_password',
     'port' => '3306'
 ];
 
